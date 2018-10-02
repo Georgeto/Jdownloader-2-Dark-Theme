@@ -22,17 +22,13 @@ I hope someone finds good use for it :)
 
 Now you got a Dark theme for JD2!
 
-## Gallery:
 
+## Gallery:
 The main Download tab
-![Sorry, this image cant be viewed :/ ](https://github.com/Vinylwalk3r/Jdownloader-2-Dark-Theme/blob/master/images/Download.JPG?)
+![Sorry, this image cant be viewed :/](images/Download.JPG)
 
 The Linkgrabber tab
-![Sorry, this image cant be viewed :/ ](https://github.com/Vinylwalk3r/Jdownloader-2-Dark-Theme/blob/master/images/Linkgrabber.JPG?)
+![Sorry, this image cant be viewed :/](images/Linkgrabber.JPG)
 
 And finaly, the Settings
-![Sorry, this image cant be viewed :/ ](https://github.com/Vinylwalk3r/Jdownloader-2-Dark-Theme/blob/master/images/SettingsTab.JPG?)
-
-
-
-
+![Sorry, this image cant be viewed :/](images/SettingsTab.JPG)
